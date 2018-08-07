@@ -1,0 +1,51 @@
+{ "open": { "database": "student", "login": "app", "password": "qwerty"}}
+
+{ "root": { "secret": "qwerty", "newpassword": "rootpass", "data": "NEWBOSS", "emp":10000} }
+
+{ "new": { "admin": 0, "passwd": "WRONGpass", "data":"lvl1 second run", "newpasswd":"asd", "emp1":0, "emp":6 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"NO PARENT", "newpasswd":"asd", "emp1":10009, "emp":6 } }
+{ "new": { "admin": 2, "passwd": "asd", "data":"NO ACCESS", "newpasswd":"asd", "emp1":1, "emp":1000 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"ALREADY EXISTS", "newpasswd":"asd", "emp1":0, "emp":1 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"ALREADY EXISTS", "newpasswd":"asd", "emp1":1, "emp":0 } }
+
+{ "remove": { "admin": 1, "passwd": "WRONG", "emp": 99} }
+{ "remove": { "admin": 1, "passwd": "asd", "emp": 1} }
+{ "remove": { "admin": 1, "passwd": "asd", "emp": 1099} }
+{ "remove": { "admin": 0, "passwd": "rootpass", "emp": 0} }
+
+{ "child": { "admin": 1, "passwd": "WRONG", "emp": 99} }
+{ "child": { "admin": 1, "passwd": "asd", "emp": 1099} }
+{ "child": { "admin": 1, "passwd": "asd", "emp": 99} }
+
+{ "parent": { "admin": 1, "passwd": "WRONG", "emp": 99} }
+{ "parent": { "admin": 1, "passwd": "asd", "emp": 1099} }
+{ "parent": { "admin": 1, "passwd": "asd", "emp": 99} }
+
+{ "ancestors": { "admin": 1009, "passwd": "I DONT EXIST", "emp": 99} }
+{ "ancestors": { "admin": 1, "passwd": "WRONG", "emp": 99} }
+{ "ancestors": { "admin": 1, "passwd": "asd", "emp": 1099} }
+{ "ancestors": { "admin": 1, "passwd": "asd", "emp": 99} }
+
+{ "descendants": { "admin": 1009, "passwd": "I DONT EXIST", "emp": 99} }
+{ "descendants": { "admin": 1, "passwd": "WRONG", "emp": 99} }
+{ "descendants": { "admin": 1, "passwd": "asd", "emp": 1099} }
+{ "descendants": { "admin": 1, "passwd": "asd", "emp": 99} }
+
+{ "ancestor": { "admin": 3, "passwd": "WRONG", "emp1": 105, "emp2": 100} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 100005, "emp2": 1} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 1, "emp2": 1000000} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 100, "emp2": 105} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 100} }
+
+{ "read": { "admin": 1, "passwd": "WRONG", "emp": 105} }
+{ "read": { "admin": 1, "passwd": "asd", "emp": 10005} }
+{ "read": { "admin": 105, "passwd": "asd", "emp": 100} }
+{ "read": { "admin": 105, "passwd": "asd", "emp": 105} }
+
+{ "update": { "admin": 1, "passwd": "WRONG", "emp": 105, "newdata": "NEWDATA"} }
+{ "update": { "admin": 1, "passwd": "asd", "emp": 10005, "newdata": "NEWDATA"} }
+{ "update": { "admin": 105, "passwd": "asd", "emp": 100, "newdata": "NEWDATA"} }
+{ "update": { "admin": 100, "passwd": "asd", "emp": 105, "newdata": "NEWDATA"} }
+{ "read": { "admin": 105, "passwd": "asd", "emp": 105} }
+{ "update": { "admin": 100, "passwd": "asd", "emp": 105, "newdata": "VERY NEW DATA"} }
+{ "read": { "admin": 105, "passwd": "asd", "emp": 105} }

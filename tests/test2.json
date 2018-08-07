@@ -1,0 +1,174 @@
+{ "open": { "database": "student", "login": "app", "password": "qwerty"}}
+
+{ "descendants": { "admin": 3, "passwd": "asd", "emp": 0} }
+{ "descendants": { "admin": 3, "passwd": "asd", "emp": 1} }
+
+{ "new": { "admin": 2, "passwd": "asd", "data":"lvl2 second run", "newpasswd":"asd", "emp1":3, "emp":10 } }
+{ "new": { "admin": 2, "passwd": "asd", "data":"lvl2 second run", "newpasswd":"asd", "emp1":2, "emp":11 } }
+{ "new": { "admin": 2, "passwd": "asd", "data":"lvl2 second run", "newpasswd":"asd", "emp1":2, "emp":12 } }
+
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":3, "emp":13 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":3, "emp":14 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":3, "emp":15 } }
+
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":4, "emp":16 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":4, "emp":17 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":4, "emp":18 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":4, "emp":19 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":4, "emp":20 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":4, "emp":21 } }
+
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":5, "emp":22 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":5, "emp":23 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":5, "emp":24 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":5, "emp":25 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":5, "emp":26 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":5, "emp":27 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":5, "emp":28 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":5, "emp":29 } }
+
+{ "descendants": { "admin": 3, "passwd": "asd", "emp": 0} }
+{ "descendants": { "admin": 3, "passwd": "asd", "emp": 1} }
+
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":6, "emp":30 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":6, "emp":31 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":6, "emp":32 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":6, "emp":33 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":6, "emp":34 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":6, "emp":35 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":6, "emp":36 } }
+{ "new": { "admin": 6, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":6, "emp":37 } }
+{ "new": { "admin": 6, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":6, "emp":38 } }
+{ "new": { "admin": 6, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":6, "emp":39 } }
+{ "descendants": { "admin": 3, "passwd": "asd", "emp": 1} }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":7, "emp":40 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":7, "emp":41 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":7, "emp":42 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":7, "emp":43 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":7, "emp":44 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":7, "emp":45 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":7, "emp":46 } }
+{ "new": { "admin": 7, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":7, "emp":47 } }
+{ "new": { "admin": 7, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":7, "emp":48 } }
+{ "new": { "admin": 7, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":7, "emp":49 } }
+{ "descendants": { "admin": 3, "passwd": "asd", "emp": 1} }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":8, "emp":50 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":8, "emp":51 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":8, "emp":52 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":8, "emp":53 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":8, "emp":54 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":8, "emp":55 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":8, "emp":56 } }
+{ "new": { "admin": 8, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":8, "emp":57 } }
+{ "new": { "admin": 8, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":8, "emp":58 } }
+{ "new": { "admin": 8, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":8, "emp":59 } }
+{ "descendants": { "admin": 3, "passwd": "asd", "emp": 1} }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":9, "emp":60 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":9, "emp":61 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":9, "emp":62 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":9, "emp":63 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":9, "emp":64 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":9, "emp":65 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":9, "emp":66 } }
+{ "new": { "admin": 9, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":9, "emp":67 } }
+{ "new": { "admin": 9, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":9, "emp":68 } }
+{ "new": { "admin": 9, "passwd": "asd", "data":"lvl3 second run", "newpasswd":"asd", "emp1":9, "emp":69 } }
+
+{ "descendants": { "admin": 3, "passwd": "asd", "emp": 1} }
+
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl4 second run", "newpasswd":"asd", "emp1":39, "emp":70 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl4 second run", "newpasswd":"asd", "emp1":39, "emp":71 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl4 second run", "newpasswd":"asd", "emp1":39, "emp":72 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl4 second run", "newpasswd":"asd", "emp1":39, "emp":73 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl4 second run", "newpasswd":"asd", "emp1":39, "emp":74 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl4 second run", "newpasswd":"asd", "emp1":39, "emp":75 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl4 second run", "newpasswd":"asd", "emp1":39, "emp":76 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl4 second run", "newpasswd":"asd", "emp1":39, "emp":77 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl4 second run", "newpasswd":"asd", "emp1":39, "emp":78 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl4 second run", "newpasswd":"asd", "emp1":39, "emp":79 } }
+
+{ "descendants": { "admin": 3, "passwd": "asd", "emp": 1} }
+
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":70, "emp":80 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":70, "emp":81 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":71, "emp":82 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":71, "emp":83 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":72, "emp":84 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":72, "emp":85 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":73, "emp":86 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":73, "emp":87 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":74, "emp":88 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":74, "emp":89 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":75, "emp":90 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":75, "emp":91 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":76, "emp":92 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":76, "emp":93 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":77, "emp":94 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":77, "emp":95 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":78, "emp":96 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":78, "emp":97 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":79, "emp":98 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl5 second run", "newpasswd":"asd", "emp1":79, "emp":99 } }
+
+{ "descendants": { "admin": 3, "passwd": "asd", "emp": 1} }
+
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl6 second run", "newpasswd":"asd", "emp1":99, "emp":100 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl6 second run", "newpasswd":"asd", "emp1":99, "emp":101 } }
+{ "new": { "admin": 1, "passwd": "asd", "data":"lvl6 second run", "newpasswd":"asd", "emp1":99, "emp":102 } }
+{ "descendants": { "admin": 3, "passwd": "asd", "emp": 1} }
+{ "new": { "admin": 100, "passwd": "asd", "data":"lvl7 second run", "newpasswd":"asd", "emp1":100, "emp":103 } }
+{ "new": { "admin": 100, "passwd": "asd", "data":"lvl7 second run", "newpasswd":"asd", "emp1":100, "emp":104 } }
+{ "new": { "admin": 100, "passwd": "asd", "data":"lvl7 second run", "newpasswd":"asd", "emp1":100, "emp":105 } }
+
+{ "descendants": { "admin": 103, "passwd": "asd", "emp": 0} }
+
+{ "ancestors": { "admin": 103, "passwd": "asd", "emp": 105} }
+{ "ancestors": { "admin": 103, "passwd": "asd", "emp": 100} }
+{ "ancestors": { "admin": 103, "passwd": "asd", "emp": 99} }
+{ "ancestors": { "admin": 103, "passwd": "asd", "emp": 79} }
+{ "ancestors": { "admin": 103, "passwd": "asd", "emp": 39} }
+{ "ancestors": { "admin": 103, "passwd": "asd", "emp": 6} }
+{ "ancestors": { "admin": 103, "passwd": "asd", "emp": 1} }
+{ "ancestors": { "admin": 103, "passwd": "asd", "emp": 0} }
+
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 100} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 99} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 79} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 39} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 6} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 1} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 0} }
+{ "descendants": { "admin": 103, "passwd": "asd", "emp": 100} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 103} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 8} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 7} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 5} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 4} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 3} }
+{ "ancestor": { "admin": 3, "passwd": "asd", "emp1": 105, "emp2": 2} }
+
+{ "descendants": { "admin": 103, "passwd": "asd", "emp": 0} }
+
+{ "remove": { "admin": 1, "passwd": "asd", "emp": 99} }
+{ "descendants": { "admin": 1, "passwd": "asd", "emp": 0} }
+
+{ "remove": { "admin": 1, "passwd": "asd", "emp": 39} }
+{ "descendants": { "admin": 1, "passwd": "asd", "emp": 0} }
+
+{ "remove": { "admin": 1, "passwd": "asd", "emp": 6} }
+{ "descendants": { "admin": 1, "passwd": "asd", "emp": 0} }
+
+{ "read": { "admin": 0, "passwd": "rootpass", "emp": 1} }
+{ "remove": { "admin": 0, "passwd": "rootpass", "emp": 1} }
+{ "descendants": { "admin": 2, "passwd": "asd", "emp": 0} }
+
+
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl1 second run", "newpasswd":"asd", "emp1":0, "emp":1 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl2 second run", "newpasswd":"asd", "emp1":1, "emp":6 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl3 second run", "newpasswd":"asd", "emp1":6, "emp":39 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl4 second run", "newpasswd":"asd", "emp1":39, "emp":79 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl5 second run", "newpasswd":"asd", "emp1":79, "emp":99 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl6 second run", "newpasswd":"asd", "emp1":99, "emp":100 } }
+{ "new": { "admin": 0, "passwd": "rootpass", "data":"lvl7 second run", "newpasswd":"asd", "emp1":100, "emp":105 } }
+{ "read": { "admin": 0, "passwd": "rootpass", "emp": 1} }
+{ "ancestors": { "admin": 2, "passwd": "asd", "emp": 105} }
